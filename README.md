@@ -1,0 +1,2 @@
+# hyprdave
+My Hyprland rice
