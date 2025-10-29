@@ -1,0 +1,1 @@
+stow -d ~/Projects/hyprdave/ -t ~/ dotfiles
